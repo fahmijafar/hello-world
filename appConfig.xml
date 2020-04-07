@@ -1,0 +1,14 @@
+<appDefinition>
+   <id>testGit</id>
+   <version>1</version>
+   <name>Test GIT</name>
+   <packageDefinitionList/>
+   <formDefinitionList/>
+   <userviewDefinitionList/>
+   <datalistDefinitionList/>
+   <builderDefinitionList/>
+   <pluginDefaultPropertiesList/>
+   <environmentVariableList/>
+   <messageList/>
+   <resourceList/>
+</appDefinition>
